@@ -1,0 +1,8 @@
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\TemperatureMonitor\bin\Debug\netstandard2.0\TemperatureMonitor.deps.json
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\TemperatureMonitor\bin\Debug\netstandard2.0\TemperatureMonitor.dll
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\TemperatureMonitor\bin\Debug\netstandard2.0\TemperatureMonitor.pdb
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\TemperatureMonitor\obj\Debug\netstandard2.0\TemperatureMonitor.csprojAssemblyReference.cache
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\TemperatureMonitor\obj\Debug\netstandard2.0\TemperatureMonitor.AssemblyInfoInputs.cache
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\TemperatureMonitor\obj\Debug\netstandard2.0\TemperatureMonitor.AssemblyInfo.cs
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\TemperatureMonitor\obj\Debug\netstandard2.0\TemperatureMonitor.dll
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\TemperatureMonitor\obj\Debug\netstandard2.0\TemperatureMonitor.pdb

@@ -1,0 +1,16 @@
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\ConsoleAppHost\bin\Debug\netcoreapp3.1\ConsoleAppHost.exe
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\ConsoleAppHost\bin\Debug\netcoreapp3.1\ConsoleAppHost.deps.json
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\ConsoleAppHost\bin\Debug\netcoreapp3.1\ConsoleAppHost.runtimeconfig.json
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\ConsoleAppHost\bin\Debug\netcoreapp3.1\ConsoleAppHost.runtimeconfig.dev.json
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\ConsoleAppHost\bin\Debug\netcoreapp3.1\ConsoleAppHost.dll
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\ConsoleAppHost\bin\Debug\netcoreapp3.1\ConsoleAppHost.pdb
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\ConsoleAppHost\bin\Debug\netcoreapp3.1\Akka.dll
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\ConsoleAppHost\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\ConsoleAppHost\bin\Debug\netcoreapp3.1\TemperatureMonitor.dll
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\ConsoleAppHost\bin\Debug\netcoreapp3.1\TemperatureMonitor.pdb
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\ConsoleAppHost\obj\Debug\netcoreapp3.1\ConsoleAppHost.csprojAssemblyReference.cache
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\ConsoleAppHost\obj\Debug\netcoreapp3.1\ConsoleAppHost.AssemblyInfoInputs.cache
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\ConsoleAppHost\obj\Debug\netcoreapp3.1\ConsoleAppHost.AssemblyInfo.cs
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\ConsoleAppHost\obj\Debug\netcoreapp3.1\ConsoleAppHost.csproj.CopyComplete
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\ConsoleAppHost\obj\Debug\netcoreapp3.1\ConsoleAppHost.dll
+D:\Projects\AkkaDotNetCore\AkkaIOTActorSystem\ConsoleAppHost\obj\Debug\netcoreapp3.1\ConsoleAppHost.pdb
