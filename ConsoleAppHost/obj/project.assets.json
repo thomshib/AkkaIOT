@@ -2779,37 +2779,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/shibut/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\AkkaDotNetCore\\AkkaIOTActorSystem\\ConsoleAppHost\\ConsoleAppHost.csproj",
+      "projectUniqueName": "/Users/shibut/Documents/Samples/AkkaActor/AkkaIOT/AkkaIOT/ConsoleAppHost/ConsoleAppHost.csproj",
       "projectName": "ConsoleAppHost",
-      "projectPath": "D:\\Projects\\AkkaDotNetCore\\AkkaIOTActorSystem\\ConsoleAppHost\\ConsoleAppHost.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\AkkaDotNetCore\\AkkaIOTActorSystem\\ConsoleAppHost\\obj\\",
+      "projectPath": "/Users/shibut/Documents/Samples/AkkaActor/AkkaIOT/AkkaIOT/ConsoleAppHost/ConsoleAppHost.csproj",
+      "packagesPath": "/Users/shibut/.nuget/packages/",
+      "outputPath": "/Users/shibut/Documents/Samples/AkkaActor/AkkaIOT/AkkaIOT/ConsoleAppHost/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/shibut/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Projects\\AkkaDotNetCore\\AkkaIOTActorSystem\\TemperatureMonitor\\TemperatureMonitor.csproj": {
-              "projectPath": "D:\\Projects\\AkkaDotNetCore\\AkkaIOTActorSystem\\TemperatureMonitor\\TemperatureMonitor.csproj"
+            "/Users/shibut/Documents/Samples/AkkaActor/AkkaIOT/AkkaIOT/TemperatureMonitor/TemperatureMonitor.csproj": {
+              "projectPath": "/Users/shibut/Documents/Samples/AkkaActor/AkkaIOT/AkkaIOT/TemperatureMonitor/TemperatureMonitor.csproj"
             }
           }
         }
@@ -2843,7 +2837,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
       }
     }
   }

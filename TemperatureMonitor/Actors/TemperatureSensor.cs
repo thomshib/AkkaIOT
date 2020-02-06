@@ -32,10 +32,12 @@ namespace TemperatureMonitor.Actors
                 case RequestUpdateTemperature msg:
                     _lastRecordedTemperature = msg.Temperature;
                     Sender.Tell(new ResponseUpdateTemperature(msg.RequestId));
+                    Console.WriteLine($"RequestUpdateTemperature message from Floor:{_floorId}::Sensor:{_sensorId}::Temperature:{_lastRecordedTemperature}");
                     break;
 
                 case RequestRegisterSensor msg when
                     msg.FloorId == _floorId && msg.SensorId == _sensorId:
+                    Console.WriteLine($"RequestRegister message from Floor:{_floorId}::Sensor:{_sensorId}");
                     Sender.Tell(new RespondSensorRegistered(msg.RequestId, Context.Self));                 
                     break;
 

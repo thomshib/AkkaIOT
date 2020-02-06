@@ -32,7 +32,7 @@ namespace TemperatureMonitor.Actors
 
                     } else{
 
-                        var newFloorActor = Context.ActorOf(CreateFloorMangerActor(msg.FloorId),
+                        var newFloorActor = Context.ActorOf(Floor.CreateFloorActor(msg.FloorId),
                         $"floor-{msg.FloorId}");
 
                         Context.Watch(newFloorActor);
@@ -65,7 +65,7 @@ namespace TemperatureMonitor.Actors
         }
 
 
-        public static Props CreateFloorMangerActor(string floorId) =>
+        public static Props CreateFloorMangerActor() =>
             Props.Create<FloorManager>();
         
 
